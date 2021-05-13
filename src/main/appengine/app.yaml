@@ -1,0 +1,6 @@
+runtime: jave
+env: flex
+
+handlers:
+  - url: /.*
+    script: blah!
